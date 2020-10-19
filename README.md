@@ -1,8 +1,8 @@
 Hi. I'm Adrián González
-
-🔭 I’m currently working on TRIGo and Seat's Workshop.
-📫 You can reach me on Linkedin: <link>https://www.linkedin.com/in/adriangonzalezcamacho/</link>
-⚡ Technologies
+<br>
+🔭 I’m currently working on TRIGo and Seat's Workshop.<br>
+📫 You can reach me on Linkedin: <link>https://www.linkedin.com/in/adriangonzalezcamacho/</link><br>
+⚡ Technologies<br>
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b3b7c945d9fcab6d5c7c9bb0c94d2b0a9042c09e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73"><img src="https://camo.githubusercontent.com/b3b7c945d9fcab6d5c7c9bb0c94d2b0a9042c09e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73" alt="Nodejs" data-canonical-src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&amp;logo=Node.js" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e84deddfd8c2c12a7d28911e3c70c569658ff6c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"><img src="https://camo.githubusercontent.com/e84deddfd8c2c12a7d28911e3c70c569658ff6c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374" alt="React" data-canonical-src="https://img.shields.io/badge/-React-black?style=flat-square&amp;logo=react" style="max-width:100%;"></a>
