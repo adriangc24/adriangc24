@@ -2,8 +2,8 @@
 
 <!-- INTRODUCTION -->
 Hi. I'm Adrián González
-<br><br>
-- I’m currently working on TRIGO and Seat's Workshop.<br>
+<br>
+I’m currently working on TRIGO and Seat's Workshop.<br><br>
 
 <!-- SOCIAL MEDIA -->
 <h3>Social Networks:</h3>
