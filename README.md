@@ -10,9 +10,7 @@ I’m currently working on TRIGO and Seat's Workshop.<br><br>
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/adriangonzalezcamacho/"/><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 
 <!-- TECHNOLOGIES -->
-<br><br><h2>Technologies: </h2><br>
-
-
+<br><h2>Technologies: </h2>
 <br><h3>Languages</h3>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E"><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&amp;style=for-the-badge&amp;logo=typescript&amp;logoColor=white">
 
