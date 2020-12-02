@@ -6,7 +6,7 @@ Hi. I'm Adrián González
 I’m currently working on TRIGO and Seat's Workshop.<br><br>
 
 <!-- SOCIAL MEDIA -->
-<h2>Social Networks</h2>
+<h3>Social Networks</h3>
 <a href="https://www.linkedin.com/in/adriangonzalezcamacho/">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/adriangonzalezcamacho/"/>
 </a> 
