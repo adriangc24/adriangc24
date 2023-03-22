@@ -3,7 +3,7 @@
 <!-- INTRODUCTION -->
 Hi. I'm Adrián González
 <br>
-I ❤️ do backend things, Barcelona based.<br><br>
+I ❤️ do things, Barcelona based.<br><br>
 
 <!-- SOCIAL MEDIA -->
 <h3>Social Networks</h3>
